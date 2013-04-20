@@ -8,7 +8,9 @@
         "url": "https://github.com/gamover/swift.db.git#master"
     },
     "dependencies": {
-        "swift.utils": "*"
+        "swift.utils": "*",
+
+        "mongoose": "*"
     },
     "devDependencies": {},
     "optionalDependencies": {},
