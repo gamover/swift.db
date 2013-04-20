@@ -1,0 +1,18 @@
+{
+    "author": "G@mOBEP <rusmiran@gmail.com>",
+    "name": "swift.db",
+    "description": "db",
+    "version": "0.0.1",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/gamover/swift.db.git#master"
+    },
+    "dependencies": {
+        "swift.utils": "*"
+    },
+    "devDependencies": {},
+    "optionalDependencies": {},
+    "engines": {
+        "node": "*"
+    }
+}
