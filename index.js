@@ -5,4 +5,9 @@
  * Time: 17:28
  */
 
-exports.DbManager = require('./lib/dbManager').DbManager;
+var DbManager = require('./lib/dbManager').DbManager;
+
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+exports.dbManager = new DbManager();
+exports.DbManager = DbManager;
