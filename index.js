@@ -9,5 +9,5 @@ var DbManager = require('./lib/dbManager').DbManager;
 
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
-exports.dbManager = new DbManager();
 exports.DbManager = DbManager;
+exports.dbManager = new DbManager();
